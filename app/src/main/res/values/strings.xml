@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoRecycleView</string>
+    <string name="btv_item1">菜单一</string>
+    <string name="btv_item2">菜单零</string>
+    <string name="btv_item3">菜单二</string>
+    <string name="btv_item4">菜单四</string>
+</resources>

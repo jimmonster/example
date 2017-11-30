@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ngbt_main_item1"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="@string/btv_item1" />
+    <item
+        android:id="@+id/ngbt_main_item2"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="@string/btv_item2" />
+    <item
+        android:id="@+id/ngbt_main_item3"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="@string/btv_item3" />
+
+    <item
+        android:id="@+id/ngbt_main_item4"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="@string/btv_item4"/>
+</menu>
